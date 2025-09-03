@@ -1,6 +1,14 @@
 h1 {
-  text-align: top;
+  text-align: center;
   font-size: 28px;
   margin-bottom: 20px;
   color:blue;
 }
+
+.resim 
+{
+  text-aling: center;
+  width: 200px;
+  height: 200px;
+}
+
