@@ -5,12 +5,13 @@ h1 {
   color:blue;
 }
 
-.resim 
+img
 {
-   text-align:left;
-  width: 200px;
-  height: 200px;
+   display: block;
+    margin: auto;
+    width: 40%;
 }
+
 
 
 
